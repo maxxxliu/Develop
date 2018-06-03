@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="cal">Calculator</string>
+    <string name="set">Setting</string>
+    <string name="Switch">Switch</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_splash2">SplashActivity2</string>
+    <string name="TBon">开关状态开</string>
+    <string name="TBoff">开关状态关</string>
+    <string name="TBtv">按钮为开时可见</string>
+    <string name="Stv">开关为开时可见</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="num0">0</string>
+    <string name="equal">=</string>
+    <string name="plus">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">÷</string>
+    <string name="clear">C</string>
+    <string name="AM">Application Manager</string>
+    <string name="SS">Storage</string>
+    <string name="Air">Airplane Mode</string>
+
+</resources>
